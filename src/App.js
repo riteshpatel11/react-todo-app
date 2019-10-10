@@ -52,8 +52,7 @@ class App extends React.Component {
           <button
             className="add-btn"
             onClick={() => this.addItem(this.state.newItem)}
-            disabled={!this.state.newItem.length}
-          >
+            disabled={!this.state.newItem.length}>
             Add Todo
           </button>
           <div className="list">
