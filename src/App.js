@@ -71,10 +71,6 @@ class App extends React.Component {
                   </li>
                 );
               })}
-              <li>
-                Bring Eggs
-                <button className="btn">Delete</button>
-              </li>
             </ul>
           </div>
         </div>
