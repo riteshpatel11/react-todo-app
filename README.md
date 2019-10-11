@@ -15,7 +15,7 @@ https://react-todo-app.riteshpatel.now.sh/
 
 ```
 git clone https://github.com/riteshpatel11/react-todo-app
-cd calculator-react-app
+cd react-todo-app
 npm install
 npm start
 ```
